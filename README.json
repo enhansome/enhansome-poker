@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Poker Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Poker Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dickreuter's Python Poker Bot",
+          "description": "Bot for Pokerstars & Partypoker, powered by GA & MCMC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-26T21:29:10Z",
+            "owner": "dickreuter",
+            "repo": "Poker",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHoldem OpenScrape",
+          "description": "Well rounded open source poker bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-14T18:20:10Z",
+            "owner": "OpenHoldem",
+            "repo": "openholdembot",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Automated Table Interaction"
+    },
+    {
+      "description": "Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RLCard",
+          "description": "RLCard is a toolkit for Reinforcement Learning (RL) in card games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokerRL",
+          "description": "Framework for Multi-Agent Deep Reinforcement Learning in Poker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T14:35:48Z",
+            "owner": "EricSteinberger",
+            "repo": "PokerRL",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACPC Server Code",
+          "description": "The automated host of the Annual Computer Poker Competition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-09-19T05:52:28Z",
+            "owner": "ethansbrown",
+            "repo": "acpc",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIT Pokerbots Engine",
+          "description": "Host service for the MIT Pokerbots Competitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-27T20:30:20Z",
+            "owner": "mitpokerbots",
+            "repo": "engine",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Casinos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Poker Odds",
+          "description": "Lightweight hand evaluator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T00:02:07Z",
+            "owner": "cookpete",
+            "repo": "poker-odds",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eval7",
+          "description": "Hand evaluator and range equity calculator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T01:01:05Z",
+            "owner": "julianandrews",
+            "repo": "pyeval7",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Hand Equity Calculators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenHoldem OHReplay",
+          "description": "The history analysis tool behind OpenHoldem bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-14T18:20:10Z",
+            "owner": "OpenHoldem",
+            "repo": "openholdembot",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickOdds",
+          "description": "Replay and analyse your hand history.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-04-21T19:42:00Z",
+            "owner": "sangaman",
+            "repo": "quickodds",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Hand History Scraping and Browsing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Poker Bots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RLCard",
+          "description": "RLCard has CFR, DQN & NFSP agents built-in!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepStack",
+          "description": "First (academic) AI agent to beat professional players.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-01-06T23:02:27Z",
+            "owner": "lifrordi",
+            "repo": "DeepStack-Leduc",
+            "stars": 949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Single) Deep CFR",
+          "description": "A scalable implementation of Deep CFR and its successor Single Deep CFR (SD-CFR).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-06T18:34:03Z",
+            "owner": "EricSteinberger",
+            "repo": "Deep-CFR",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFSP",
+          "description": "A self improving agent based on \"Neural Fictitous Self-Play\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-08T01:30:01Z",
+            "owner": "EricSteinberger",
+            "repo": "Neural-Fictitous-Self-Play",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Leduc Hold'em"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RLCard",
+          "description": "RLCard has CFR, DQN & NFSP agents built-in!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dickreuter's Python Poker Bot",
+          "description": "Bot for Pokerstars & Partypoker, powered by GA & MCMC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-26T21:29:10Z",
+            "owner": "dickreuter",
+            "repo": "Poker",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHoldem Bot",
+          "description": "Well rounded open source poker bot ; can interact with online platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-14T18:20:10Z",
+            "owner": "OpenHoldem",
+            "repo": "openholdembot",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepHoldem",
+          "description": "Implementation of DeepStack for NLHM, extended from DeepStack-Leduc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-09-25T17:33:08Z",
+            "owner": "happypepper",
+            "repo": "DeepHoldem",
+            "stars": 220
+          }
+        }
+      ],
+      "title": "No-Limit Hold'em"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Poker Coaching"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Poker Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DouZero paper",
+          "description": "Zha, Daochen, et al. \"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning.\" arXiv 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:02:16Z",
+            "owner": "kwai",
+            "repo": "DouZero",
+            "stars": 4642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLCard paper",
+          "description": "Zha, Daochen, et al. \"RLCard: A Platform for Reinforcement Learning in Card Games.\" IJCAI. 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepStack study",
+          "description": "Joint study that led to the DeepStack agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-01-06T23:02:27Z",
+            "owner": "lifrordi",
+            "repo": "DeepStack-Leduc",
+            "stars": 949
+          }
+        }
+      ],
+      "title": "Poker and Gaming Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sindresorhus/awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-31T23:19:05Z",
+            "owner": "emijrp",
+            "repo": "awesome-awesome",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Warren",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-12T05:59:46Z",
+            "owner": "torchhound",
+            "repo": "warren",
+            "stars": 400
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This project was initially created with Cookiecutter and the custom cookiecutter-awesome :cookie:",
+      "items": [],
+      "title": "Credits"
+    },
+    {
+      "description": "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work. See LICENSE.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:10.793Z",
+    "original_repository": "apehex/awesome-poker",
+    "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
+    "enhanced_repository": "enhansome/enhansome-poker",
+    "enhanced_repository_description": null,
+    "title": "Awesome Poker with stars"
+  }
+}
