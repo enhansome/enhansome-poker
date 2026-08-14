@@ -58,7 +58,7 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,538 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,537 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -142,7 +142,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### Leduc Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,538 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,537 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -167,7 +167,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,538 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,537 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -214,7 +214,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Similar Games
 
-* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,642 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
+* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,643 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
   ![any players][any-player]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -235,8 +235,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker and Gaming Papers
 
-* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,642 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
-* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,538 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
+* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,643 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
+* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,537 | 🐛 81 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 * [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 949 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 * [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 495,359 | 🐛 99 | 📅 2026-06-30
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,606 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,194 | 🐛 25 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 495,751 | 🐛 100 | 📅 2026-06-30
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,197 | 🐛 25 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 400 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
