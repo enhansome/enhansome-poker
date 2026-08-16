@@ -43,7 +43,7 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,444 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,445 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -173,7 +173,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,444 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,445 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 496,103 | 🐛 100 | 📅 2026-06-30
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 496,527 | 🐛 100 | 📅 2026-06-30
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,198 | 🐛 25 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 400 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
