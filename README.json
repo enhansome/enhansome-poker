@@ -38,7 +38,7 @@
             "last_commit": "2025-04-14T18:20:10Z",
             "owner": "OpenHoldem",
             "repo": "openholdembot",
-            "stars": 255
+            "stars": 256
           }
         }
       ],
@@ -58,7 +58,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3539
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2025-04-14T18:20:10Z",
             "owner": "OpenHoldem",
             "repo": "openholdembot",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3539
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3539
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2025-04-14T18:20:10Z",
             "owner": "OpenHoldem",
             "repo": "openholdembot",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4644
+            "stars": 4645
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3539
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496527
+            "stars": 496947
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33610
+            "stars": 33608
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:46:06.838Z",
+    "last_updated": "2026-08-17T20:52:37.397Z",
     "original_repository": "apehex/awesome-poker",
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
     "enhanced_repository": "enhansome/enhansome-poker",
