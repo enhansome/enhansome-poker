@@ -24,7 +24,7 @@
             "last_commit": "2025-06-26T21:29:10Z",
             "owner": "dickreuter",
             "repo": "Poker",
-            "stars": 2445
+            "stars": 2446
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3539
+            "stars": 3541
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3539
+            "stars": 3541
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3539
+            "stars": 3541
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2025-06-26T21:29:10Z",
             "owner": "dickreuter",
             "repo": "Poker",
-            "stars": 2445
+            "stars": 2446
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3539
+            "stars": 3541
           }
         },
         {
@@ -377,10 +377,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496947
+            "stars": 497384
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33609
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3198
+            "stars": 3199
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:52:37.397Z",
+    "last_updated": "2026-08-18T20:47:59.042Z",
     "original_repository": "apehex/awesome-poker",
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
     "enhanced_repository": "enhansome/enhansome-poker",
