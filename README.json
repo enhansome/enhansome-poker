@@ -397,7 +397,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498954
+            "stars": 499284
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3200
+            "stars": 3201
           }
         },
         {
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:47:15.806Z",
+    "last_updated": "2026-08-23T20:47:13.306Z",
     "original_repository": "apehex/awesome-poker",
     "original_repository_id": 166826899,
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
