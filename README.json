@@ -54,7 +54,7 @@
                 "last_commit": "2024-06-26T23:01:52Z",
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541
+                "stars": 3540
               }
             },
             {
@@ -106,6 +106,28 @@
           "description": "Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).",
           "node_type": "group",
           "title": "Casinos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PokerRegion",
+              "description": "All around poker framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24036336,
+                "language": "Python",
+                "last_commit": "2024-02-21T15:23:16Z",
+                "owner": "pokerregion",
+                "repo": "poker",
+                "stars": 355
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
         },
         {
           "children": [
@@ -203,7 +225,7 @@
                     "last_commit": "2024-06-26T23:01:52Z",
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3541
+                    "stars": 3540
                   }
                 },
                 {
@@ -270,7 +292,7 @@
                     "last_commit": "2024-06-26T23:01:52Z",
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3541
+                    "stars": 3540
                   }
                 },
                 {
@@ -327,6 +349,28 @@
           "description": null,
           "node_type": "group",
           "title": "AI Programs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DouZero",
+              "description": "DouZero is a reinforcement learning framework for DouDizhu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373010014,
+                "language": "Python",
+                "last_commit": "2024-06-26T23:02:16Z",
+                "owner": "kwai",
+                "repo": "DouZero",
+                "stars": 4649
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Similar Games"
         }
       ],
       "title": "Poker Bots"
@@ -346,7 +390,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4648
+            "stars": 4649
           }
         },
         {
@@ -361,7 +405,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -397,7 +441,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499284
+            "stars": 499518
           }
         },
         {
@@ -412,7 +456,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33618
+            "stars": 33620
           }
         },
         {
@@ -442,7 +486,7 @@
             "last_commit": "2018-10-12T05:59:46Z",
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 400
+            "stars": 401
           }
         }
       ],
@@ -450,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:47:13.306Z",
+    "last_updated": "2026-08-24T14:24:50.388Z",
     "original_repository": "apehex/awesome-poker",
     "original_repository_id": 166826899,
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
