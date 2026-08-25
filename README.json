@@ -17,7 +17,7 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2449
+                "stars": 2451
               }
             },
             {
@@ -307,7 +307,7 @@
                     "last_commit": "2025-06-26T21:29:10Z",
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2449
+                    "stars": 2451
                   }
                 },
                 {
@@ -364,7 +364,7 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4649
+                "stars": 4652
               }
             }
           ],
@@ -390,7 +390,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4649
+            "stars": 4652
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499703
+            "stars": 499893
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:14.711Z",
+    "last_updated": "2026-08-25T20:54:31.683Z",
     "original_repository": "apehex/awesome-poker",
     "original_repository_id": 166826899,
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
