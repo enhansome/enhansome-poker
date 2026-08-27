@@ -17,7 +17,7 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2453
+                "stars": 2454
               }
             },
             {
@@ -307,7 +307,7 @@
                     "last_commit": "2025-06-26T21:29:10Z",
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2453
+                    "stars": 2454
                   }
                 },
                 {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500234
+            "stars": 500367
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33626
+            "stars": 33628
           }
         },
         {
@@ -494,9 +494,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:55:08.353Z",
-    "original_repository": "apehex/awesome-poker",
-    "original_repository_id": 166826899,
+    "last_updated": "2026-08-27T12:01:10.360Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 166826899,
+      "language": null,
+      "last_commit": "2024-04-04T00:42:14Z",
+      "owner": "apehex",
+      "repo": "awesome-poker",
+      "stars": 423
+    },
     "original_repository_sha": "c19f4fb9491932737d950002cb21e0281b8305cc",
     "enhanced_repository": "enhansome/enhansome-poker",
     "enhanced_repository_description": null,
