@@ -17,8 +17,9 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2454
-              }
+                "stars": 2455
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2024-06-26T23:01:52Z",
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3540
-              }
+                "stars": 3541
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
                 "stars": 537
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "ethansbrown",
                 "repo": "acpc",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "mitpokerbots",
                 "repo": "engine",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": "Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).",
@@ -122,7 +128,8 @@
                 "owner": "pokerregion",
                 "repo": "poker",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": null,
@@ -144,7 +151,8 @@
                 "owner": "cookpete",
                 "repo": "poker-odds",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "julianandrews",
                 "repo": "pyeval7",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": null,
@@ -181,7 +190,8 @@
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             },
             {
               "node_type": "item",
@@ -196,7 +206,8 @@
                 "owner": "sangaman",
                 "repo": "quickodds",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": null,
@@ -225,8 +236,9 @@
                     "last_commit": "2024-06-26T23:01:52Z",
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3540
-                  }
+                    "stars": 3541
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -240,8 +252,9 @@
                     "last_commit": "2018-01-06T23:02:27Z",
                     "owner": "lifrordi",
                     "repo": "DeepStack-Leduc",
-                    "stars": 949
-                  }
+                    "stars": 950
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -256,7 +269,8 @@
                     "owner": "EricSteinberger",
                     "repo": "Deep-CFR",
                     "stars": 330
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -271,7 +285,8 @@
                     "owner": "EricSteinberger",
                     "repo": "Neural-Fictitous-Self-Play",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 }
               ],
               "description": null,
@@ -292,8 +307,9 @@
                     "last_commit": "2024-06-26T23:01:52Z",
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3540
-                  }
+                    "stars": 3541
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -307,8 +323,9 @@
                     "last_commit": "2025-06-26T21:29:10Z",
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2454
-                  }
+                    "stars": 2455
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -323,7 +340,8 @@
                     "owner": "OpenHoldem",
                     "repo": "openholdembot",
                     "stars": 256
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 },
                 {
                   "node_type": "item",
@@ -338,7 +356,8 @@
                     "owner": "happypepper",
                     "repo": "DeepHoldem",
                     "stars": 220
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:46.422Z"
                 }
               ],
               "description": null,
@@ -365,7 +384,8 @@
                 "owner": "kwai",
                 "repo": "DouZero",
                 "stars": 4652
-              }
+              },
+              "first_seen": "2026-08-28T04:24:46.422Z"
             }
           ],
           "description": null,
@@ -391,7 +411,8 @@
             "owner": "kwai",
             "repo": "DouZero",
             "stars": 4652
-          }
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         },
         {
           "node_type": "item",
@@ -405,8 +426,9 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3540
-          }
+            "stars": 3541
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         },
         {
           "node_type": "item",
@@ -420,8 +442,9 @@
             "last_commit": "2018-01-06T23:02:27Z",
             "owner": "lifrordi",
             "repo": "DeepStack-Leduc",
-            "stars": 949
-          }
+            "stars": 950
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         }
       ],
       "title": "Poker and Gaming Papers"
@@ -441,8 +464,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500367
-          }
+            "stars": 500596
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         },
         {
           "node_type": "item",
@@ -456,8 +480,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
-          }
+            "stars": 33632
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         },
         {
           "node_type": "item",
@@ -471,8 +496,9 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3203
-          }
+            "stars": 3204
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         },
         {
           "node_type": "item",
@@ -487,14 +513,15 @@
             "owner": "torchhound",
             "repo": "warren",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T04:24:46.422Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:10.360Z",
+    "last_updated": "2026-08-28T04:24:46.422Z",
     "original_repository_info": {
       "archived": false,
       "id": 166826899,
