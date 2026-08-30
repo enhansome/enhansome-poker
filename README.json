@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541,
+                "stars": 3542,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3541,
+                    "stars": 3542,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "EricSteinberger",
                     "repo": "Deep-CFR",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": [
                       "cfr",
                       "counterfactual-regret-minimization",
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3541,
+                    "stars": 3542,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4654,
+                "stars": 4655,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4654,
+            "stars": 4655,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541,
+            "stars": 3542,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501150,
+            "stars": 501436,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 0,
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 401,
+            "stars": 400,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:42:44.359Z",
+    "last_updated": "2026-08-30T22:52:29.763Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
@@ -813,7 +813,7 @@
       "open_issues": 3,
       "owner": "apehex",
       "repo": "awesome-poker",
-      "stars": 423,
+      "stars": 424,
       "topics": [
         "artificial-intelligence",
         "awesome",
