@@ -214,7 +214,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Similar Games
 
-* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,655 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
+* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,656 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
   ![any players][any-player]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -235,7 +235,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker and Gaming Papers
 
-* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,655 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
+* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,656 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
 * [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,542 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 * [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 950 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 501,436 | 🐛 105 | 📅 2026-08-21
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 501,730 | 🐛 105 | 📅 2026-08-21
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,639 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,204 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 400 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
