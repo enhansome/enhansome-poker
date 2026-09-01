@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4656,
+                "stars": 4658,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4656,
+            "stars": 4658,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501730,
+            "stars": 502034,
             "topics": [
               "awesome",
               "awesome-list",
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3204,
+            "stars": 3205,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:58:08.165Z",
+    "last_updated": "2026-09-01T22:43:09.256Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
