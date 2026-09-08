@@ -193,7 +193,7 @@
                 "open_issues": 26,
                 "owner": "pokerregion",
                 "repo": "poker",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "poker"
                 ]
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503966,
+            "stars": 504258,
             "topics": [
               "awesome",
               "awesome-list",
@@ -739,10 +739,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33657,
+            "stars": 33660,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:56:18.790Z",
+    "last_updated": "2026-09-08T22:50:35.373Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
