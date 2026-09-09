@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -377,7 +377,7 @@
                     "open_issues": 14,
                     "owner": "lifrordi",
                     "repo": "DeepStack-Leduc",
-                    "stars": 950,
+                    "stars": 951,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4660,
+                "stars": 4662,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4660,
+            "stars": 4662,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -688,7 +688,7 @@
             "open_issues": 14,
             "owner": "lifrordi",
             "repo": "DeepStack-Leduc",
-            "stars": 950,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504258,
+            "stars": 504523,
             "topics": [
               "awesome",
               "awesome-list",
@@ -739,7 +739,7 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
             "stars": 33660,
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:50:35.373Z",
+    "last_updated": "2026-09-09T22:40:06.460Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
