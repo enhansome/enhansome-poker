@@ -185,7 +185,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
-* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 221 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
+* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 222 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Lua Language][lua-badge]
@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 504,823 | 🐛 106 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,662 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,206 | 🐛 26 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 505,143 | 🐛 106 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,664 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 401 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

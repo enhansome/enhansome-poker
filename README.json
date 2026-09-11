@@ -552,7 +552,7 @@
                     "open_issues": 24,
                     "owner": "happypepper",
                     "repo": "DeepHoldem",
-                    "stars": 221,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504823,
+            "stars": 505143,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33662,
+            "stars": 33664,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3206,
+            "stars": 3207,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:42:04.551Z",
+    "last_updated": "2026-09-11T22:42:14.232Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
