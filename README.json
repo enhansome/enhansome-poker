@@ -46,7 +46,7 @@
                 "open_issues": 23,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
-                "stars": 256,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:46.422Z"
@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3547,
+                "stars": 3546,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -280,7 +280,7 @@
                 "open_issues": 23,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
-                "stars": 256,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:46.422Z"
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3547,
+                    "stars": 3546,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -377,7 +377,7 @@
                     "open_issues": 14,
                     "owner": "lifrordi",
                     "repo": "DeepStack-Leduc",
-                    "stars": 951,
+                    "stars": 950,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3547,
+                    "stars": 3546,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -531,7 +531,7 @@
                     "open_issues": 23,
                     "owner": "OpenHoldem",
                     "repo": "openholdembot",
-                    "stars": 256,
+                    "stars": 255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3547,
+            "stars": 3546,
             "topics": [
               "ai",
               "blackjack",
@@ -688,7 +688,7 @@
             "open_issues": 14,
             "owner": "lifrordi",
             "repo": "DeepStack-Leduc",
-            "stars": 951,
+            "stars": 950,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505751,
+            "stars": 506060,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33668,
+            "stars": 33671,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3207,
+            "stars": 3208,
             "topics": [
               "awesome",
               "awesome-list"
@@ -787,7 +787,7 @@
             "open_issues": 0,
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:31:08.159Z",
+    "last_updated": "2026-09-14T23:16:05.189Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
