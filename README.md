@@ -43,7 +43,7 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,462 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,463 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -58,13 +58,13 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,546 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,548 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 541 | 🐛 8 | 🌐 Python | 📅 2023-03-31 - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
+* [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 542 | 🐛 8 | 🌐 Python | 📅 2023-03-31 - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -142,7 +142,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### Leduc Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,546 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,548 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -154,12 +154,12 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Lua Language][lua-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
-* [(Single) Deep CFR](https://github.com/EricSteinberger/Deep-CFR) ⭐ 331 | 🐛 4 | 🌐 Python | 📅 2020-05-06 - A scalable implementation of Deep CFR and its successor Single Deep CFR (SD-CFR).
+* [(Single) Deep CFR](https://github.com/EricSteinberger/Deep-CFR) ⭐ 332 | 🐛 4 | 🌐 Python | 📅 2020-05-06 - A scalable implementation of Deep CFR and its successor Single Deep CFR (SD-CFR).
   ![2 players][2-player]
   ![Leduc HM][leduchm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [NFSP](https://github.com/EricSteinberger/Neural-Fictitous-Self-Play) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2019-02-08 - A self improving agent based on "Neural Fictitous Self-Play".
+* [NFSP](https://github.com/EricSteinberger/Neural-Fictitous-Self-Play) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2019-02-08 - A self improving agent based on "Neural Fictitous Self-Play".
   ![2 players][2-player]
   ![Leduc HM][leduchm-badge]
   ![Python Language][python-badge]
@@ -167,13 +167,13 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,546 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,548 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,462 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,463 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -214,7 +214,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Similar Games
 
-* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,664 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
+* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,663 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
   ![any players][any-player]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -235,8 +235,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker and Gaming Papers
 
-* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,664 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
-* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,546 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
+* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,663 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
+* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,548 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 * [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 950 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 * [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 506,385 | 🐛 106 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,674 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 506,773 | 🐛 106 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,675 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,208 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 403 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

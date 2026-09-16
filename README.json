@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2462,
+                "stars": 2463,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3546,
+                "stars": 3548,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 541,
+                "stars": 542,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3546,
+                    "stars": 3548,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "EricSteinberger",
                     "repo": "Deep-CFR",
-                    "stars": 331,
+                    "stars": 332,
                     "topics": [
                       "cfr",
                       "counterfactual-regret-minimization",
@@ -429,7 +429,7 @@
                     "open_issues": 0,
                     "owner": "EricSteinberger",
                     "repo": "Neural-Fictitous-Self-Play",
-                    "stars": 85,
+                    "stars": 86,
                     "topics": [
                       "deep-learning",
                       "game-theory",
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3546,
+                    "stars": 3548,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2462,
+                    "stars": 2463,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4664,
+                "stars": 4663,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4664,
+            "stars": 4663,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3546,
+            "stars": 3548,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506385,
+            "stars": 506773,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33674,
+            "stars": 33675,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:01:11.043Z",
+    "last_updated": "2026-09-16T23:07:28.413Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
