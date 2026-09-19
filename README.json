@@ -223,7 +223,7 @@
                 "open_issues": 16,
                 "owner": "cookpete",
                 "repo": "poker-odds",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "chance",
                   "equity",
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507508,
+            "stars": 507861,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 0,
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:43:23.300Z",
+    "last_updated": "2026-09-19T22:22:49.977Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",

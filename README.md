@@ -92,7 +92,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Hand Equity Calculators
 
-* [Poker Odds](https://github.com/CookPete/poker-odds) ⭐ 181 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - Lightweight hand evaluator.
+* [Poker Odds](https://github.com/CookPete/poker-odds) ⭐ 182 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - Lightweight hand evaluator.
   ![NLHM][nlhm-badge]
   ![Js Language][javascript-badge]
   ![Open Source Love][open-source-badge]
@@ -247,10 +247,10 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 507,508 | 🐛 106 | 📅 2026-09-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 507,861 | 🐛 106 | 📅 2026-09-02
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,208 | 🐛 26 | 📅 2024-07-31
-* [The Warren](https://github.com/torchhound/warren) ⭐ 403 | 🐛 0 | 🌐 Python | 📅 2018-10-12
+* [The Warren](https://github.com/torchhound/warren) ⭐ 404 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
