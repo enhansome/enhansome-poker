@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3550,
+                "stars": 3551,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3550,
+                    "stars": 3551,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3550,
+                    "stars": 3551,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3550,
+            "stars": 3551,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507861,
+            "stars": 508235,
             "topics": [
               "awesome",
               "awesome-list",
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3208,
+            "stars": 3210,
             "topics": [
               "awesome",
               "awesome-list"
@@ -787,7 +787,7 @@
             "open_issues": 0,
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:22:49.977Z",
+    "last_updated": "2026-09-20T22:35:17.002Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
@@ -813,7 +813,7 @@
       "open_issues": 4,
       "owner": "apehex",
       "repo": "awesome-poker",
-      "stars": 424,
+      "stars": 425,
       "topics": [
         "artificial-intelligence",
         "awesome",
