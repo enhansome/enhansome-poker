@@ -58,7 +58,7 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,566 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,567 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -142,7 +142,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### Leduc Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,566 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,567 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -154,7 +154,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Lua Language][lua-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
-* [(Single) Deep CFR](https://github.com/EricSteinberger/Deep-CFR) ⭐ 332 | 🐛 4 | 🌐 Python | 📅 2020-05-06 - A scalable implementation of Deep CFR and its successor Single Deep CFR (SD-CFR).
+* [(Single) Deep CFR](https://github.com/EricSteinberger/Deep-CFR) ⭐ 333 | 🐛 4 | 🌐 Python | 📅 2020-05-06 - A scalable implementation of Deep CFR and its successor Single Deep CFR (SD-CFR).
   ![2 players][2-player]
   ![Leduc HM][leduchm-badge]
   ![Python Language][python-badge]
@@ -167,7 +167,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,566 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,567 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -236,7 +236,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 ## Poker and Gaming Papers
 
 * [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,669 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
-* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,566 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
+* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,567 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 * [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 * [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,726 | 🐛 106 | 📅 2026-09-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,798 | 🐛 106 | 📅 2026-09-02
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,217 | 🐛 29 | 📅 2024-07-31
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,218 | 🐛 29 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
