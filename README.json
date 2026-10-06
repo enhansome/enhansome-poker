@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3571,
+                "stars": 3572,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3571,
+                    "stars": 3572,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3571,
+                    "stars": 3572,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3571,
+            "stars": 3572,
             "topics": [
               "ai",
               "blackjack",
@@ -712,10 +712,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 107,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515178,
+            "stars": 515355,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33703,
+            "stars": 33705,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:21:40.966Z",
+    "last_updated": "2026-10-06T10:22:19.214Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
