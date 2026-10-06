@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 515,640 | 🐛 106 | 📅 2026-09-02
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,220 | 🐛 29 | 📅 2024-07-31
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,221 | 🐛 29 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
