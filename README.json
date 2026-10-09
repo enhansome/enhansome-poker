@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3572,
+                "stars": 3573,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3572,
+                    "stars": 3573,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3572,
+                    "stars": 3573,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4671,
+                "stars": 4673,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4671,
+            "stars": 4673,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516098,
+            "stars": 516341,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33707,
+            "stars": 33711,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3223,
+            "stars": 3224,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:18:22.826Z",
+    "last_updated": "2026-10-09T00:31:43.996Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
