@@ -43,11 +43,11 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,477 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,478 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) ⭐ 255 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot.
+* [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) ⭐ 256 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
@@ -58,7 +58,7 @@ The most awesome tools & resources to improve your poker game!
 
 Host environments similar to online playing plateforms, often without gui. They regulate the matches matches between remote clients players (be it bots or human players).
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,573 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,574 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -111,7 +111,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Hand History Scraping and Browsing
 
-* [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) ⭐ 255 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - The history analysis tool behind OpenHoldem bot.
+* [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) ⭐ 256 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - The history analysis tool behind OpenHoldem bot.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
@@ -142,7 +142,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### Leduc Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,573 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,574 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -167,18 +167,18 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 #### No-Limit Hold'em
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,573 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,574 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,477 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,478 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) ⭐ 255 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot ; can interact with online platforms.
+* [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) ⭐ 256 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot ; can interact with online platforms.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
@@ -236,7 +236,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 ## Poker and Gaming Papers
 
 * [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,676 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
-* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,573 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
+* [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,574 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 * [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 952 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 * [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 516,780 | 🐛 106 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,713 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,225 | 🐛 26 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 517,236 | 🐛 106 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,716 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,226 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 407 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
