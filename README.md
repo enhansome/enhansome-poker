@@ -43,7 +43,7 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,481 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,480 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -96,7 +96,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Js Language][javascript-badge]
   ![Open Source Love][open-source-badge]
-* [Eval7](https://github.com/julianandrews/pyeval7) ⭐ 72 | 🐛 8 | 🌐 C | 📅 2026-07-29 - Hand evaluator and range equity calculator.
+* [Eval7](https://github.com/julianandrews/pyeval7) ⭐ 73 | 🐛 8 | 🌐 C | 📅 2026-07-29 - Hand evaluator and range equity calculator.
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
   ![Python Language][python-badge]
@@ -173,7 +173,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,481 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,480 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -185,7 +185,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
-* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 222 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
+* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 223 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Lua Language][lua-badge]
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 518,998 | 🐛 105 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,723 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 519,489 | 🐛 105 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,728 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,229 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

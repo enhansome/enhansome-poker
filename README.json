@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -252,7 +252,7 @@
                 "open_issues": 8,
                 "owner": "julianandrews",
                 "repo": "pyeval7",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:46.422Z"
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2481,
+                    "stars": 2480,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -552,7 +552,7 @@
                     "open_issues": 24,
                     "owner": "happypepper",
                     "repo": "DeepHoldem",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 518998,
+            "stars": 519489,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33723,
+            "stars": 33728,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:20:35.574Z",
+    "last_updated": "2026-10-15T23:09:36.361Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
