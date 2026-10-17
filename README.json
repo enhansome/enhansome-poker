@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 519986,
+            "stars": 520453,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33728,
+            "stars": 33727,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:56:11.395Z",
+    "last_updated": "2026-10-17T22:30:00.594Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",

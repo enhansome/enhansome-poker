@@ -64,7 +64,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 545 | 🐛 8 | 🌐 Python | 📅 2023-03-31 - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
+* [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 546 | 🐛 8 | 🌐 Python | 📅 2023-03-31 - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
   ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 519,986 | 🐛 105 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,728 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 520,453 | 🐛 105 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,727 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,230 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
