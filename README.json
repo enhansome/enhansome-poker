@@ -377,7 +377,7 @@
                     "open_issues": 14,
                     "owner": "lifrordi",
                     "repo": "DeepStack-Leduc",
-                    "stars": 950,
+                    "stars": 951,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -552,7 +552,7 @@
                     "open_issues": 24,
                     "owner": "happypepper",
                     "repo": "DeepHoldem",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4681,
+                "stars": 4685,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4681,
+            "stars": 4685,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -688,7 +688,7 @@
             "open_issues": 14,
             "owner": "lifrordi",
             "repo": "DeepStack-Leduc",
-            "stars": 950,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 520958,
+            "stars": 521474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33729,
+            "stars": 33732,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3230,
+            "stars": 3232,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:30:51.120Z",
+    "last_updated": "2026-10-19T23:50:24.848Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",

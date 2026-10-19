@@ -148,7 +148,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 950 | 🐛 14 | 🌐 Lua | 📅 2018-01-06 - First (academic) AI agent to beat professional players.
+* [DeepStack](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06 - First (academic) AI agent to beat professional players.
   ![2 players][2-player]
   ![Leduc HM][leduchm-badge]
   ![Lua Language][lua-badge]
@@ -185,7 +185,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![C++ Language][cplusplus-badge]
   ![Open Source Love][open-source-badge]
-* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 222 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
+* [DeepHoldem](https://github.com/happypepper/DeepHoldem) ⭐ 223 | 🐛 24 | 🌐 Lua | 📅 2018-09-25 - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Lua Language][lua-badge]
@@ -214,7 +214,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Similar Games
 
-* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,681 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
+* [DouZero](https://github.com/kwai/DouZero) ⭐ 4,685 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
   ![any players][any-player]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
@@ -235,9 +235,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker and Gaming Papers
 
-* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,681 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
+* [DouZero paper](https://github.com/kwai/DouZero) ⭐ 4,685 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
 * [RLCard paper](https://github.com/datamllab/rlcard) ⭐ 3,581 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
-* [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 950 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
+* [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06.
 * [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 * [DREAM paper](https://arxiv.org/pdf/2006.10410.pdf) - E. Steinberger, A. Lerer, N. Brown, "Deep Regret Minimization with Advantage Baselines and Model-free Learning", arXiv 2020.
 * [Libratus study](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf) - Study realised by the CMU exposing part of the Libratus bot ; published at the NIPS 2017.
@@ -247,9 +247,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 520,958 | 🐛 105 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,729 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,230 | 🐛 26 | 📅 2024-07-31
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 521,474 | 🐛 105 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,732 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,232 | 🐛 26 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 408 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
 ## Contribute
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
