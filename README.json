@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -74,7 +74,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3580,
+                "stars": 3579,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -337,7 +337,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3580,
+                    "stars": 3579,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -377,7 +377,7 @@
                     "open_issues": 14,
                     "owner": "lifrordi",
                     "repo": "DeepStack-Leduc",
-                    "stars": 951,
+                    "stars": 950,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -466,7 +466,7 @@
                     "open_issues": 80,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3580,
+                    "stars": 3579,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2481,
+                    "stars": 2482,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4685,
+                "stars": 4683,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4685,
+            "stars": 4683,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -648,7 +648,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3580,
+            "stars": 3579,
             "topics": [
               "ai",
               "blackjack",
@@ -688,7 +688,7 @@
             "open_issues": 14,
             "owner": "lifrordi",
             "repo": "DeepStack-Leduc",
-            "stars": 951,
+            "stars": 950,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 522372,
+            "stars": 523163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33740,
+            "stars": 33743,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3235,
+            "stars": 3236,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:29:49.556Z",
+    "last_updated": "2026-10-22T23:29:02.374Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
