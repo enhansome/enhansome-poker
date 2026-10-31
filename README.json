@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2490,
+                "stars": 2491,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -74,7 +74,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3586,
+                "stars": 3587,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "EricSteinberger",
                 "repo": "PokerRL",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "deep-learning",
                   "framework",
@@ -337,7 +337,7 @@
                     "open_issues": 81,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3586,
+                    "stars": 3587,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -466,7 +466,7 @@
                     "open_issues": 81,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3586,
+                    "stars": 3587,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2490,
+                    "stars": 2491,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -648,7 +648,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3586,
+            "stars": 3587,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 527495,
+            "stars": 528022,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33757,
+            "stars": 33760,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3238,
+            "stars": 3240,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:55:57.211Z",
+    "last_updated": "2026-10-31T23:31:27.272Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
