@@ -74,7 +74,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3593,
+                "stars": 3591,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -337,7 +337,7 @@
                     "open_issues": 81,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3593,
+                    "stars": 3591,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -466,7 +466,7 @@
                     "open_issues": 81,
                     "owner": "datamllab",
                     "repo": "rlcard",
-                    "stars": 3593,
+                    "stars": 3591,
                     "topics": [
                       "ai",
                       "blackjack",
@@ -648,7 +648,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3593,
+            "stars": 3591,
             "topics": [
               "ai",
               "blackjack",
@@ -715,7 +715,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536463,
+            "stars": 536942,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 0,
             "owner": "torchhound",
             "repo": "warren",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:56:58.124Z",
+    "last_updated": "2026-11-15T00:01:51.109Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
