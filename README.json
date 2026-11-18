@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2499,
+                "stars": 2501,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2499,
+                    "stars": 2501,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -715,7 +715,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 538046,
+            "stars": 538586,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33790,
+            "stars": 33794,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -763,7 +763,7 @@
             "open_issues": 28,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3248,
+            "stars": 3250,
             "topics": [
               "awesome",
               "awesome-list"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:01:29.014Z",
+    "last_updated": "2026-11-18T02:30:07.920Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
@@ -813,7 +813,7 @@
       "open_issues": 9,
       "owner": "apehex",
       "repo": "awesome-poker",
-      "stars": 430,
+      "stars": 431,
       "topics": [
         "artificial-intelligence",
         "awesome",
