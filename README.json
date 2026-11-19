@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2501,
+                "stars": 2500,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -43,7 +43,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-04-14T18:20:10Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
                 "stars": 257,
@@ -277,7 +277,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-04-14T18:20:10Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
                 "stars": 257,
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2501,
+                    "stars": 2500,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -528,7 +528,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2025-04-14T18:20:10Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "OpenHoldem",
                     "repo": "openholdembot",
                     "stars": 257,
@@ -715,7 +715,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 538586,
+            "stars": 539059,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33794,
+            "stars": 33797,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:30:07.920Z",
+    "last_updated": "2026-11-19T01:56:07.747Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",

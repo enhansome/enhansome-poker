@@ -43,11 +43,11 @@ The most awesome tools & resources to improve your poker game!
 
 ### Automated Table Interaction
 
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,501 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,500 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) ⭐ 257 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot.
+* [OpenHoldem OpenScrape](https://github.com/OpenHoldem/openholdembot/tree/master/OpenScrape) ⭐ 257 | 🐛 24 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
@@ -111,7 +111,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ### Hand History Scraping and Browsing
 
-* [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) ⭐ 257 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - The history analysis tool behind OpenHoldem bot.
+* [OpenHoldem OHReplay](https://github.com/OpenHoldem/openholdembot/tree/master/OHReplay) ⭐ 257 | 🐛 24 | 🌐 C++ | 📅 2025-04-14 - The history analysis tool behind OpenHoldem bot.
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
   ![C Language][c-badge]
@@ -173,12 +173,12 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,501 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
+* [Dickreuter's Python Poker Bot](https://github.com/dickreuter/Poker) ⭐ 2,500 | 🐛 34 | 🌐 Python | 📅 2025-06-26 – Bot for Pokerstars & Partypoker, powered by GA & MCMC.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
-* [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) ⭐ 257 | 🐛 23 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot ; can interact with online platforms.
+* [OpenHoldem Bot](https://github.com/OpenHoldem/openholdembot) ⭐ 257 | 🐛 24 | 🌐 C++ | 📅 2025-04-14 - Well rounded open source poker bot ; can interact with online platforms.
   ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![PLO][plo-badge]
@@ -247,8 +247,8 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 538,586 | 🐛 104 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,794 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 539,059 | 🐛 104 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,797 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,250 | 🐛 28 | 📅 2024-07-31
 * [The Warren](https://github.com/torchhound/warren) ⭐ 412 | 🐛 0 | 🌐 Python | 📅 2018-10-12
 
@@ -313,4 +313,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
