@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2498,
+                "stars": 2499,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -506,7 +506,7 @@
                     "open_issues": 34,
                     "owner": "dickreuter",
                     "repo": "Poker",
-                    "stars": 2498,
+                    "stars": 2499,
                     "topics": [
                       "artificial-intelligence",
                       "poker",
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4705,
+                "stars": 4707,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4705,
+            "stars": 4707,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -715,7 +715,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 542389,
+            "stars": 542893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33809,
+            "stars": 33808,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:37:55.806Z",
+    "last_updated": "2026-11-26T02:57:57.046Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
@@ -810,7 +810,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-04-04T00:42:14Z",
-      "open_issues": 9,
+      "open_issues": 8,
       "owner": "apehex",
       "repo": "awesome-poker",
       "stars": 431,
