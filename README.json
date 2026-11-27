@@ -46,7 +46,7 @@
                 "open_issues": 24,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:46.422Z"
@@ -280,7 +280,7 @@
                 "open_issues": 24,
                 "owner": "OpenHoldem",
                 "repo": "openholdembot",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:46.422Z"
@@ -531,7 +531,7 @@
                     "open_issues": 24,
                     "owner": "OpenHoldem",
                     "repo": "openholdembot",
-                    "stars": 257,
+                    "stars": 256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:46.422Z"
@@ -585,7 +585,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4707,
+                "stars": 4708,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -622,7 +622,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4707,
+            "stars": 4708,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -715,7 +715,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 542893,
+            "stars": 543498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33808,
+            "stars": 33812,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:46.422Z"
@@ -801,7 +801,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:57:57.046Z",
+    "last_updated": "2026-11-27T03:00:58.708Z",
     "original_repository_info": {
       "archived": false,
       "description": ":spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.",
